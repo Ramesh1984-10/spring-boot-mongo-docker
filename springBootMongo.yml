@@ -70,7 +70,7 @@ spec:
     spec:
       containers:
       - name: springappcontainer
-        image: 637423365063.dkr.ecr.us-east-1.amazonaws.com/java-spring-boot:latest-40
+        image: 637423365063.dkr.ecr.us-east-1.amazonaws.com/java-spring-boot:latest-39
         ports:
         - containerPort: 8080
         env:
